@@ -1,0 +1,8 @@
+node_modules
+node_modules/*
+LICENSE
+README.md
+build
+build/*
+docker
+docker/*
